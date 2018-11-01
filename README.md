@@ -12,4 +12,4 @@ Model 3 - Linear regression using scaled, numerical features. Features were sele
 Model 4 - Linear regression using scaled, numerical features. Features were selected using a scikit-learn's VarianceThreshold method. VarianceThreshold was set to 0.50. 
 
 All 4 sets of predictions were submitted to the Kaggle competiton. 
-Through 4 sets of submissions, I improved my standing in the Leaderboard by 19 spots. 
+Through 4 sets of submissions, I increased my standing in the Leaderboard by 19 places. 
